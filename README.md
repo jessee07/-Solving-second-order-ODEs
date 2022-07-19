@@ -1,4 +1,4 @@
-# -Solving-second-order-ODEs
+# Solving-second-order-ODEs
 **OBJECTIVE:**
 
               To write a program that solves the equation of motion of a simple pendulum with damping and to will simulate the pendulum motion.
